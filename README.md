@@ -52,4 +52,4 @@ kubectl delete service,deployment,ingress,PriorityClass --all
 
 #### Docker
 
-[build multi-stage](Chapter02/2.1.8_MultiStage/readme)
+[build multi-stage](Chapter02/2.1.8_MultiStage/readme.md)
