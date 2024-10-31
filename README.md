@@ -48,9 +48,13 @@ kubectl delete service,deployment,ingress,PriorityClass --all
 
 </details>
 
-### Notes
+## Notes
 
-#### Docker
+### Docker Container
 
 - [build multi-stage](Chapter02/2.1.8_MultiStage/readme.md)
 - [compose volumns bind](Chapter02/2.3.1_VolumeMount/readme.md)
+
+### Deploying to Kubernetes
+
+- [Deployment, Pod, and Service](Chapter03/3.2_DeployingToKubernetes/readme.md)
